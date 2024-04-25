@@ -1,5 +1,4 @@
 ![logo](https://github.com/PrasadJadhav-Github/PrasadJadhav-Github/blob/main/Prasad%20jadhav.png)
-
 <h1 align="center">Hi 👋, I'm Prasad Ravindra Jadhav</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
@@ -10,6 +9,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadjadhav-github" alt="prasadjadhav-github" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Android Developement**
+
+- 👨‍💻 All of my projects are available at [https://github.com/PrasadJadhav-Github](https://github.com/PrasadJadhav-Github)
+
+- 📫 How to reach me **prasadrjadhav11@gmail.com**
+
+- 📄 Know about my experiences [file:///D:/Documents/All%20Document/prasad_jadhav_Resume.pdf](file:///D:/Documents/All%20Document/prasad_jadhav_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
